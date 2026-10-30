@@ -26,3 +26,4 @@ This project demonstrates a basic data engineering workflow using Python, pandas
 4. **Analyse:** Use SQL to calculate revenue by product.
 5. **Test:** Use pytest to verify the transformation logic.
 
+VIDEO LINK : https://youtu.be/3oqL0UthJXk
